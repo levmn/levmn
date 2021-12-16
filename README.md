@@ -1,7 +1,7 @@
 ## hi, i am levi! future full stack developer!  <img alt="kirby" align="center" height="50" src="https://64.media.tumblr.com/4e1636c9ffae1a8f25a98462f9ad009d/4745d5bb39189c3d-c0/s75x75_c1/b9d53e595d3e410a834524102ca85e57c2d5321b.gifv">
 <div>
   
-  #### <p>i'm currently learning at <a href="https://brazil.generation.org/" rel="nofollow">@generationbrasil</a>:</p>
+  #### <p>what i'm currently learning at <a href="https://brazil.generation.org/" rel="nofollow">@generationbrasil</a>:</p>
   <a href="https://github.com/levmn"> 
      
   <img align="center" alt="lev.j" height="25" width="auto" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">  
