@@ -1,7 +1,7 @@
 ## hi, i am levi! future full stack developer!  <img alt="kirby" align="center" height="50" src="https://64.media.tumblr.com/4e1636c9ffae1a8f25a98462f9ad009d/4745d5bb39189c3d-c0/s75x75_c1/b9d53e595d3e410a834524102ca85e57c2d5321b.gifv">
 <div>
   
-  #### i'm very curious about front-end, graphical interfaces, creation and design. always permeating in visual arts.
+  #### i'm very curious about front-end, graphical interfaces, design and creation. always permeating in visual arts.
   #### <p>what i'm currently learning at <a href="https://brazil.generation.org/" rel="nofollow">@generationbrasil</a>:</p>
   <a href="https://github.com/levmn"> 
      
