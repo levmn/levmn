@@ -2,7 +2,7 @@
 <div>
   
   #### i'm very curious about front-end, graphical interfaces, design and creation. always permeating in visual arts.
-  #### <p>what i'm currently learning at 🚀 <a href="https://brazil.generation.org/" rel="nofollow">@generationbrasil</a>:</p>
+  #### <p>🚀 what i'm currently learning at <a href="https://brazil.generation.org/" rel="nofollow">@generationbrasil</a>:</p>
   <a href="https://github.com/levmn"> 
      
   <img align="center" alt="lev.j" height="25" width="auto" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">   
