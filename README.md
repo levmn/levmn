@@ -1,4 +1,4 @@
-## hi, i am levi! future full stack developer!  <img alt="kirby" align="center" height="50" src="https://64.media.tumblr.com/4e1636c9ffae1a8f25a98462f9ad009d/4745d5bb39189c3d-c0/s75x75_c1/b9d53e595d3e410a834524102ca85e57c2d5321b.gifv">
+## hi, i am levi! future full stack developer!  <img alt="kirby" align="center" height="50" src="https://64.media.tumblr.com/763b3318d1482fa2739751235f23c757/0a11036de13d75cd-a1/s100x200/5df879812360ebadf9e6e1212b0318651b7b3f2b.gifv">
 <div>
   
   #### i'm very curious about front-end, graphical interfaces, design and creation. always permeating in visual arts.
