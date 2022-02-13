@@ -2,7 +2,7 @@
 <div>
   
   #### i'm very curious about front-end, graphical interfaces, design and creation. always permeating in visual arts.
-  #### <p>🚀 what i'm currently learning at <a href="https://brazil.generation.org/" rel="nofollow">@generationbrasil</a>:</p>
+  #### <p>🚀 what i'm currently learning at <a href="https://brazil.generation.org/" target="_blank" rel="nofollow">@generationbrasil</a>:</p>
   <a href="https://github.com/levmn"> 
      
   <img align="center" alt="lev.j" height="25" width="auto" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">   
@@ -18,8 +18,8 @@
    ## contact me on:
   
 <div>
-  <a href="https://www.linkedin.com/in/levmn/" target="_blank"><img height="25" width="auto" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:levimncontato@gmail.com"><img height="25" width="auto" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/levmn/" target="_blank"><img height="25" width="auto" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href = "mailto:levimncontato@gmail.com"><img height="25" width="auto" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a> 
   
  ![Snake animation](https://github.com/levmn/levmn/blob/output/github-contribution-grid-snake.svg)
   
