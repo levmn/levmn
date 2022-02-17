@@ -18,8 +18,6 @@
   <img align="center" alt="lev.mui" height="25" width="auto" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white">  
  
 </div>
-  
-  <br>
 
    ## contact me on:
   
