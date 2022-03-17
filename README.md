@@ -3,7 +3,6 @@
   
   <img align="right" width="20%" src="https://imgur.com/vGwDB72.gif">
 
-  <br>
   
   #### <p>i'm very curious about front-end, graphical interfaces, design and creation. <br>always permeating in visual arts.</p>
   #### <p>🚀 here some technologies, tools and languages that i have knowledge of:</p>
