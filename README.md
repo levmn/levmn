@@ -7,7 +7,7 @@
 
   
   #### <p>i'm very curious about front-end, graphical interfaces, design and creation. <br>always permeating in visual arts.</p>
-  #### <p>🚀 here some technologies, tools and languages that i have knowledge</p>
+  #### <p> here some technologies, tools and languages that i have knowledge:</p>
     
 <table>
   <tr>
