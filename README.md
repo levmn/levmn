@@ -2,7 +2,7 @@
 <div>
   
  <div>
-  <img align="right" width="25%" src="https://i.giphy.com/media/rdQNz4dutSII8/giphy.webp">
+  <img align="right" width="25%" src="https://imgur.com/AEZTeaz.gif">
  </div>
 
   
