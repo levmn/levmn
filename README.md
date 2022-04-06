@@ -2,7 +2,7 @@
 <div>
   
  <div>
-  <img align="right" width="25%" src="https://imgur.com/AEZTeaz.gif">
+  
  </div>
 
   
