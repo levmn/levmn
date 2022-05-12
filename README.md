@@ -6,8 +6,8 @@
  </div>
 
   
-  #### <p>i'm very curious about front-end, graphical interfaces, design and creation. <br>always permeating in visual arts.</p>
-  #### <p> here some technologies, tools and languages that i have knowledge:</p>
+  #### <p> i'm very curious about front-end, graphical interfaces, design and creation. <br> always permeating in visual arts. </p>
+  #### <p> few languages, technologies and tools that i have some knowledge of: </p>
     
 <table>
   <tr>
