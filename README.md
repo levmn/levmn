@@ -21,6 +21,7 @@
       <img alt="lev.java" height="25" width="auto" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"><br>   
       <img alt="lev.mysql" height="25" width="auto" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"><br>  
       <img alt="lev.spring" height="25" width="auto" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"><br>
+       <img alt="lev.elixir" height="25" width="auto" src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white"><br> 
      </td>
      <td align="center">
       <img alt="lev.html" height="25" width="auto" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><br>
