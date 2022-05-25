@@ -1,14 +1,11 @@
-## hi, i am levi!  <img alt="minecraft bee" align="center" height="50" src="https://64.media.tumblr.com/2ae584b0b85021825117ff86d3b33a1b/793085bad90a24ae-7d/s250x400/b78d969076aed3cddf33e565b276e9fe17615075.gifv">
-<div>
-  
- <div>
-  
- </div>
+<div align="center">
 
+## hi, i am levi!  <img alt="minecraft bee" align="center" height="50" src="https://64.media.tumblr.com/2ae584b0b85021825117ff86d3b33a1b/793085bad90a24ae-7d/s250x400/b78d969076aed3cddf33e565b276e9fe17615075.gifv">
   
-  #### <p> i'm very curious about front-end, graphical interfaces, design and creation. <br> always permeating in visual arts. </p>
+  #### <p> very curious about front-end, graphical interfaces, design and creation. <br> always permeating in visual arts. </p>
   #### <p> few languages, technologies and tools that i have some knowledge of: </p>
-    
+  
+
 <table>
   <tr>
     <th><b>back-end</b></th>
@@ -41,17 +38,13 @@
      </td>
   </tr>
 </table>
- 
-</div>
   
-  <br>
+ <br>
   
-   ## contact me on:
-  
-<div>
-  <a href="https://www.linkedin.com/in/levmn/" target="_blank"><img height="25" width="auto" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href = "mailto:levimncontato@gmail.com"><img height="25" width="auto" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a> 
-  
- ![Snake animation](https://github.com/levmn/levmn/blob/output/github-contribution-grid-snake.svg)
+  <div>
+
+   ![Snake animation](https://github.com/levmn/levmn/blob/output/github-contribution-grid-snake.svg)
+
+  </div>
   
 </div>
