@@ -22,8 +22,6 @@
        <img alt="lev.elixir" height="25" width="auto" src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white"><br> 
      </td>
      <td align="center">
-      <img alt="lev.html" height="25" width="auto" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><br>
-      <img alt="lev.css" height="25" width="auto" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><br>
       <img alt="lev.typescript" height="25" width="auto" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"><br>
        <img alt="lev.javascript" height="25" width="auto" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"><br>
       <img alt="lev.reactjs" height="25" width="auto" src="https://img.shields.io/badge/reactjs-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"><br>
@@ -39,13 +37,5 @@
      </td>
   </tr>
 </table>
-  
- <br>
-  
-  <div>
-
-   ![Snake animation](https://github.com/levmn/levmn/blob/output/github-contribution-grid-snake.svg)
-
-  </div>
   
 </div>
