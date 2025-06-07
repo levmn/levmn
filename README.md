@@ -1,7 +1,7 @@
-<img src="https://media.tenor.com/KCVGTvWtkUAAAAAi/minecraft-minecraft-bee.gif"
+<img src="assets/minecraft-bee.gif"
      alt="minecraft bee"
      height="240px"
-     align="left" />
+     align="right" />
 
 ```elixir
   def levi do
@@ -15,8 +15,6 @@
                     trans_community),
       systems: ~w(macos),
       langs: ~w(elixir golang java python),
-      other: ~w(...)
+      other: ~w(ᓚᘏᗢ Ⓐ)
     }
   end
-```
-
