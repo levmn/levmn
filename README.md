@@ -15,6 +15,6 @@
                     trans_community),
       systems: ~w(macos),
       langs: ~w(elixir golang java python),
-      other: ~w(ᓚᘏᗢ Ⓐ)
+      other: ~w(ᓚᘏᗢ meow)
     }
   end
