@@ -13,7 +13,6 @@
       interests: ~w(functionalprogramming open_source
                     arts cats numetal minecraft
                     trans_community),
-      systems: ~w(macos),
       langs: ~w(elixir golang java python),
       other: ~w(ᓚᘏᗢ meow)
     }
